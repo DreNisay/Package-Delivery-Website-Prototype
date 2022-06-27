@@ -1,8 +1,12 @@
 # Package-Delivery-Website-Prototype
 Developers:
+
 Agacer, Sean Matthew,
+
 Gamata, Christian,
+
 Nisay, Deiondre Judd V.,
+
 San Juan, Jan Catherine S.
 
 In accordance to a course project of CMSC 127: File Processing & Database Systems
